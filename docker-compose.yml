@@ -17,4 +17,4 @@ services:
       - PRICEURL=https://projectzerothree.info/api.php?format=json
       - DEVICE_NAME=SM-G973FZKAXSA
       - OS_VERSION="Android 9.0.0"
-      - APP_VERSION=1.7.1.2012
+      - APP_VERSION=1.8.0.2027
